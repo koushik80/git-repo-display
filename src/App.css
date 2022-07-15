@@ -40,5 +40,16 @@
 
 .navbar {
   padding: 20px;
-  background-color: grey;
+  background-color: teal;
+}
+
+.serach {
+  display: flex;
+  justify-content: center;
+  padding : 20px 0;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
 }
