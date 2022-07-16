@@ -44,11 +44,14 @@ function App() {
     fetch(`https://api.github.com/users/${userInput}`)
       .then(res => res.json())
       .then(data => {
-        setData(data);
-      })
-  }
-
-
+        if (data.message) {
+          setError(data.message);
+        } else {
+          setData(data);
+          setError(null);
+        }
+      });
+  };
 
   return (
     <div className="App">
@@ -63,10 +66,11 @@ function App() {
             <Form.Button content="Search" />
          </Form.Group>
         </Form>
-      </div>
-      <div className="card">
+        </div>
+        {error ? (<hi>{error}</hi>) : (
+          <div className="card">
         <Card>
-         <Image src={avatar} wrapped ui={false} />
+          <Image src={avatar} wrapped ui={false} />
          <Card.Content>
               <Card.Header>{name}</Card.Header>
               <Card.Header>{userName}</Card.Header>
@@ -91,6 +95,7 @@ function App() {
         </Card.Content>
     </Card>
       </div>
+        )}
      </div>
     </div>
   );

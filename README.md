@@ -1,4 +1,4 @@
-# Hi there!<img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="50" height="50"/>Here goes below my app information:
+# Hi there!<img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="50" height="50"/>Here goes below the app information:
 
 <div align="center"><a href="......">devHuß Git-Display</a></div>
 <h2 align="center">App to display GitHub user account</h2>
@@ -12,14 +12,15 @@
 <p>References</p>
 
 
-<h3 align="left">Description: </h3>
+<h3 align="left">Description: :bookmark_tabs: </h3>
 
 <p>The app is created to submit as pre-assignment. The implementation strives to be simple. The application is composed as follows:</p>
 
-<h3 align="left">User stories: </h3>
+<h3 align="left">User stories: :technologist: </h3>
 <ul>
-<li>User can search anybody's GitHub account by typing username</li>
-<li>The app displays then  expected user's name, user account, number of followers, number of repos, number of following and image of the user</li>
+<li>User can search anybody's GitHub account by typing username.</li>
+<li>The app displays then  expected user's name, user account, number of followers, number of repos, number of following and image of the user.</li>
+<li>If user type wrong username then the dispaly will show "Not found".</li>
 </ul>
 
 <h3 align="left">Technologies: :computer:</h3>
@@ -31,19 +32,19 @@
 <li>Semantic UI</li>
 </ul>
 
-<h3 align="left">Instruction: </h3>
+<h3 align="left">Instruction: :card_index: </h3>
 
 <p>#npm start: Runs the app in the development mode. Open http://localhost:3000 to view it in the browser</p>
 <p>npm install: install all required dependencies in your local machine<p>
 <p>#npm test: Launches the test runner in the interactive watch mode</p>
 <p>#npm run build: Builds the app for production to the #build folder</p>
 
-<h3 align="left"> Prerequisites: </h3>
+<h3 align="left"> Prerequisites: :hammer_and_wrench: </h3>
 <ul>
 <li>Node: 16.13.2</li>
 <li>NPM: 8.1.2</li>
 </ul>
-<h3 align="left">References: </h3>
+<h3 align="left">References: :railway_track: </h3>
 
 <ul>
 <li><a href="https://fullstackopen.com/en/">Deep Dive into Modern Web Development</a></li>
