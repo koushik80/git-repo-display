@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import logo from './logo.png';
 import './App.css';
 import { Form, Card, Image, Icon } from 'semantic-ui-react';
+import SocialFollow from './SocialFollow';
 
 
 function App() {
@@ -56,7 +57,14 @@ function App() {
   return (
     <div className="App">
       <div>
-      <div className="navbar">devHuß Git-Display</div>
+        <div className="navbar">
+          <div className="nav-logo">
+          <div className="wrapper">
+              <h1 className="display-name">GitHuß Search Engine<div><img src={logo} className="App-logo" alt="logo" /></div></h1>
+	        </div>
+        </div>
+        </div>
+      <div className="search-box"> 
       <div className="search">
         <Form onSubmit={handleSubmit}>
          <Form.Group>
@@ -66,6 +74,7 @@ function App() {
             <Form.Button content="Search" />
          </Form.Group>
         </Form>
+        </div>
         </div>
         {error ? (<hi>{error}</hi>) : (
           <div className="card">
@@ -97,6 +106,7 @@ function App() {
       </div>
         )}
      </div>
+    <div className="socialConnect"><SocialFollow /></div>
     </div>
   );
 };

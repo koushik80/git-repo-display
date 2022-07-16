@@ -1,6 +1,8 @@
 # Hi there!<img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="50" height="50"/>Here goes below the app information:
 
-<div align="center"><a href="......">devHuß Git-Display</a></div>
+<div align="center"><a href="......">GitHuß Search Engine</a></div>
+<img width="1696" alt="Screenshot 2022-07-16 at 5 28 52 AM" src="https://user-images.githubusercontent.com/89943976/179335635-5b04c82d-1946-4297-9786-1102dc69bb82.png">
+<img width="1701" alt="Screenshot 2022-07-16 at 5 28 28 AM" src="https://user-images.githubusercontent.com/89943976/179335640-bb36b7ab-1b60-4cbf-825e-2b250824f621.png">
 <h2 align="center">App to display GitHub user account</h2>
 <h2 align="center">Table of Content</h2>
 
@@ -30,6 +32,8 @@
 <li>React</li>
 <li>React-hooks(useState, useEffect)</li>
 <li>Semantic UI</li>
+<li>@fortawesome/free-brands-svg-icons</li>
+<li>@fortawesome/react-fontawesome</li>
 </ul>
 
 <h3 align="left">Instruction: :card_index: </h3>
