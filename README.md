@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# Hi there!<img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="50" height="50"/> Here goes below my app information:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center"><a href="......">devHuß Git-Display</a></div>
+<h2 align="center">App to display GitHub user account</h2>
+<h2 align="center">Table of Content</h2>
 
-## Available Scripts
+<p>Description</p>
+<p>User stories</p>
+<p>Technologies</p>
+<p>Instruction</p>
+<P>Prerequisites</p>
+<p>References</p>
 
-In the project directory, you can run:
 
-### `npm start`
+<h3 align="left">Description: </h3>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<p>The app is created to submit as pre-assignment. The implementation strives to be simple. The application is composed as follows:</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<h3 align="left">User stories: </h3>
+<ul>
+<li>User can search anybody's GitHub account by typing username</li>
+<li>The app displays then  expected user's name, user account, number of followers, number of repos, number of following and image of the user</li>
+</ul>
 
-### `npm test`
+<h3 align="left">Technologies: :computer:</h3>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<ul>
+<li>Visual Studio Code</li>
+<li>React</li>
+<li>React-hooks(useState, useEffect)</li>
+<li>Semantic UI</li>
+</ul>
 
-### `npm run build`
+<h3 align="left">Instruction: </h3>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<p>#npm start: Runs the app in the development mode. Open http://localhost:3000 to view it in the browser</p>
+<p>npm install: install all required dependencies in your local machine<p>
+<p>#npm test: Launches the test runner in the interactive watch mode</p>
+<p>#npm run build: Builds the app for production to the #build folder</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<h3 align="left"> Prerequisites: </h3>
+<ul>
+<li>Node: 16.13.2</li>
+<li>NPM: 8.1.2</li>
+</ul>
+<h3 align="left">References: </h3>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<ul>
+<li><a href="https://fullstackopen.com/en/">Deep Dive into Modern Web Development</a></li>
+<li><a href="https://futurice.com/blog/the-rules-of-react-hooks-and-how-we-messed-up?utm_term=&utm_campaign=Leads-Performance+Futurice+General&utm_source=adwords&utm_medium=ppc&hsa_acc=8927169193&hsa_cam=17378645955&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwoMSWBhAdEiwAVJ2ndur5SHXlZK1wENjVewE8s-hPNxHXsBu6Ls7SP0XvAidwIYwi_WS8HxoCmJQQAvD_BwE"></a>React hook blog@Olavi Haapala-Futurice</li>
+<li><a href="https://digitalsynopsis.com/design/beautiful-color-gradient-palettes/">DIGITAL SYNOPSIS</a></li>
+</ul>
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
