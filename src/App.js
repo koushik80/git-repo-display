@@ -60,11 +60,11 @@ function App() {
         <div className="navbar">
           <div className="nav-logo">
           <div className="wrapper">
-              <h1 className="display-name">GitHuß Search Engine<div><img src={logo} className="App-logo" alt="logo" /></div></h1>
+              <h1 className="display-name">GitHuß Search Engine  <div><img src={logo} className="App-logo" alt="logo" /></div></h1>
 	        </div>
         </div>
         </div>
-      <div className="search-box"> 
+      <div className="search-box">
       <div className="search">
         <Form onSubmit={handleSubmit}>
          <Form.Group>

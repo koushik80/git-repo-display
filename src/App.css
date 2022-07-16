@@ -21,21 +21,6 @@
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -48,6 +33,7 @@
 .navbar {
   padding: 20px;
   background-color: #E7E7E7;
+  box-shadow: 0 0 25px 0 black;
 }
 .display-name {
   color: #fff;
