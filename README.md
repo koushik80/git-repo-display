@@ -1,4 +1,4 @@
-# Hi there!<img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="50" height="50"/> Here goes below my app information:
+# Hi there!<img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="50" height="50"/>Here goes below my app information:
 
 <div align="center"><a href="......">devHuß Git-Display</a></div>
 <h2 align="center">App to display GitHub user account</h2>
@@ -47,7 +47,7 @@
 
 <ul>
 <li><a href="https://fullstackopen.com/en/">Deep Dive into Modern Web Development</a></li>
-<li><a href="https://futurice.com/blog/the-rules-of-react-hooks-and-how-we-messed-up?utm_term=&utm_campaign=Leads-Performance+Futurice+General&utm_source=adwords&utm_medium=ppc&hsa_acc=8927169193&hsa_cam=17378645955&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwoMSWBhAdEiwAVJ2ndur5SHXlZK1wENjVewE8s-hPNxHXsBu6Ls7SP0XvAidwIYwi_WS8HxoCmJQQAvD_BwE"></a>React hook blog@Olavi Haapala-Futurice</li>
+<li><a href="https://futurice.com/blog/the-rules-of-react-hooks-and-how-we-messed-up?utm_term=&utm_campaign=Leads-Performance+Futurice+General&utm_source=adwords&utm_medium=ppc&hsa_acc=8927169193&hsa_cam=17378645955&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwoMSWBhAdEiwAVJ2ndur5SHXlZK1wENjVewE8s-hPNxHXsBu6Ls7SP0XvAidwIYwi_WS8HxoCmJQQAvD_BwE">React hook blog@Olavi Haapala-Futurice</a></li>
 <li><a href="https://digitalsynopsis.com/design/beautiful-color-gradient-palettes/">DIGITAL SYNOPSIS</a></li>
 </ul>
 
