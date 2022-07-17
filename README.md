@@ -3,10 +3,6 @@
 <div align="center"><a href="https://ghub-search-engine.netlify.app/">GitHuß Search Engine</a></div>
 <img width="1706" alt="Screenshot 2022-07-18 at 1 45 44 AM" src="https://user-images.githubusercontent.com/89943976/179428181-ad79479d-ea58-47a6-8a17-af8afebe65ca.gif">
 
-
-<img width="1706" alt="Screenshot 2022-07-18 at 1 45 44 AM" src="https://user-images.githubusercontent.com/89943976/179427959-1a4a0e60-4380-412d-9f58-efea5dbe9ac5.png">
-<img width="1703" alt="Screenshot 2022-07-18 at 1 46 43 AM" src="https://user-images.githubusercontent.com/89943976/179427960-1f914246-3bab-46de-9194-bff299d5271e.png">
-<img width="1705" alt="Screenshot 2022-07-18 at 1 46 19 AM" src="https://user-images.githubusercontent.com/89943976/179427965-8a61b831-e50b-4549-ad29-27ebe51e07b8.png">
 <h2 align="center">App to display GitHub user account</h2>
 <h2 align="center">Table of Content</h2>
 
