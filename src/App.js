@@ -14,6 +14,7 @@ function App() {
   const [repos, setRepos] = useState('');
   const [avatar, setAvatar] = useState('');
   const [userInput, setUserInput] = useState('');
+  const [commits, setCommits] = useState('');
   const [error, setError] = useState(null);
 
   useEffect(() => {
@@ -26,7 +27,7 @@ function App() {
 
   const setData = ({ name, login, followers,
                      following, public_repos,
-                     avatar_url
+                     avatar_url,commits
   }) => {
     setName(name);
     setUsername(login);
@@ -34,6 +35,7 @@ function App() {
     setFollowing(following);
     setRepos(public_repos);
     setAvatar(avatar_url);
+    setCommits(commits);
 
   };
 
@@ -60,7 +62,7 @@ function App() {
         <div className="navbar">
           <div className="nav-logo">
           <div className="wrapper">
-              <h1 className="display-name">GitHuß Search Engine  <div><img src={logo} className="App-logo" alt="logo" /></div></h1>
+              <h1 className="display-name">GitHuß Search Engine<div><img src={logo} className="App-logo" alt="logo" /></div></h1>
 	        </div>
         </div>
         </div>
@@ -84,15 +86,16 @@ function App() {
               <Card.Header>{name}</Card.Header>
               <Card.Header>{userName}</Card.Header>
          </Card.Content>
+        <div className="info">
          <Card.Content extra>
             <a>
-              <Icon name='user' />
+              <Icon name='user secret' />
                 {followers} Followers
             </a>
             </Card.Content>
          <Card.Content extra>
             <a>
-             <Icon name='user' />
+             <Icon name='cloud upload' />
                {repos} Repos
            </a>
             </Card.Content>
@@ -102,7 +105,14 @@ function App() {
                {following} Following
            </a>
         </Card.Content>
-    </Card>
+        <Card.Content extra>
+            <a>
+              <Icon name='code' />
+                {commits} Commits
+            </a>
+        </Card.Content>
+       </div>
+      </Card>
       </div>
         )}
      </div>

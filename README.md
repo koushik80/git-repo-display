@@ -1,8 +1,8 @@
 # Hi there!<img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="50" height="50"/>Here goes below the app information:
 
 <div align="center"><a href="https://ghub-search-engine.netlify.app/">GitHuß Search Engine</a></div>
-<img width="1696" alt="Screenshot 2022-07-16 at 5 28 52 AM" src="https://user-images.githubusercontent.com/89943976/179335635-5b04c82d-1946-4297-9786-1102dc69bb82.png">
-<img width="1701" alt="Screenshot 2022-07-16 at 5 28 28 AM" src="https://user-images.githubusercontent.com/89943976/179335640-bb36b7ab-1b60-4cbf-825e-2b250824f621.png">
+<img width="1700" alt="Screenshot 2022-07-17 at 7 05 40 PM" src="https://user-images.githubusercontent.com/89943976/179410269-33aed564-b7e2-4b48-bebd-5b921c176014.png">
+<img width="1698" alt="Screenshot 2022-07-17 at 7 05 17 PM" src="https://user-images.githubusercontent.com/89943976/179410297-f0fd1f3c-832a-4270-a6bc-65d16a050573.png">
 <h2 align="center">App to display GitHub user account</h2>
 <h2 align="center">Table of Content</h2>
 
@@ -52,6 +52,7 @@
 
 <ul>
 <li><a href="https://fullstackopen.com/en/">Deep Dive into Modern Web Development</a></li>
+<li><a href="https://api.github.com/">GitHub API</a></li>
 <li><a href="https://futurice.com/blog/the-rules-of-react-hooks-and-how-we-messed-up?utm_term=&utm_campaign=Leads-Performance+Futurice+General&utm_source=adwords&utm_medium=ppc&hsa_acc=8927169193&hsa_cam=17378645955&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwoMSWBhAdEiwAVJ2ndur5SHXlZK1wENjVewE8s-hPNxHXsBu6Ls7SP0XvAidwIYwi_WS8HxoCmJQQAvD_BwE">React hook blog@Olavi Haapala-Futurice</a></li>
 <li><a href="https://digitalsynopsis.com/design/beautiful-color-gradient-palettes/">DIGITAL SYNOPSIS</a></li>
 </ul>
