@@ -1,8 +1,7 @@
 # Hi there!<img src="https://media.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif" width="50" height="50"/>Here goes below the app information:
 
 <div align="center"><a href="https://ghub-search-engine.netlify.app/">GitHuß Search Engine</a></div>
-<img width="1700" alt="Screenshot 2022-07-17 at 7 05 40 PM" src="https://user-images.githubusercontent.com/89943976/179410269-33aed564-b7e2-4b48-bebd-5b921c176014.png">
-<img width="1698" alt="Screenshot 2022-07-17 at 7 05 17 PM" src="https://user-images.githubusercontent.com/89943976/179410297-f0fd1f3c-832a-4270-a6bc-65d16a050573.png">
+![merged](https://user-images.githubusercontent.com/89943976/179427877-76ae0503-302f-4c08-833d-11545c1871bc.gif)
 <h2 align="center">App to display GitHub user account</h2>
 <h2 align="center">Table of Content</h2>
 
