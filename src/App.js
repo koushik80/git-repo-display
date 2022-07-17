@@ -84,7 +84,7 @@ function App() {
         {error ? (<hi>{error}</hi>) : (
           <div className="card">
         <Card>
-          <Image src={avatar} wrapped ui={false} />
+              <Image src={avatar} wrapped ui={false} />
          <Card.Content>
               <Card.Header>{name}</Card.Header>
               <Card.Header>{userName}</Card.Header>
