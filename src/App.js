@@ -14,8 +14,9 @@ function App() {
   const [repos, setRepos] = useState('');
   const [avatar, setAvatar] = useState('');
   const [userInput, setUserInput] = useState('');
-  const [commits, setCommits] = useState('');
+  const [commits, setCommits] = useState([]);
   const [error, setError] = useState(null);
+
 
   useEffect(() => {
     fetch("https://api.github.com/users/example")
@@ -43,7 +44,8 @@ function App() {
     setUserInput(e.target.value);
   };
 
-  const handleSubmit = () => {
+  const handleSubmit = (e) => {
+    e.preventDefault();
     fetch(`https://api.github.com/users/${userInput}`)
       .then(res => res.json())
       .then(data => {
@@ -73,7 +75,7 @@ function App() {
               <Form.Input
                 placeholder="Github user"
                 name="github user" onChange={handleSearch} />
-            <Form.Button content="Search" />
+              <Form.Button content="Search" />
          </Form.Group>
         </Form>
         </div>
@@ -106,10 +108,10 @@ function App() {
            </a>
         </Card.Content>
         <Card.Content extra>
-            <a>
-              <Icon name='code' />
+          <a>
+            <Icon name='code' />
                 {commits} Commits
-            </a>
+          </a>
         </Card.Content>
        </div>
       </Card>
