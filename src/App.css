@@ -3,13 +3,13 @@
 }
 
 .App-logo {
-  height: 5vmin;
+  height: 8vmin;
   pointer-events: none;
   border-radius: 50%;
   padding: 12px 5px;
   margin-top: 28px;
   position: absolute;
-  top: -14px;
+  top: -26px;
   right: 50px;
   justify-content: space-between;
   display: flex;
@@ -36,7 +36,7 @@
   box-shadow: 0 0 25px 0 black;
 }
 .display-name {
-  color: #fff;
+    color: #fff;
     font-size: 35px;
     font-weight: 800;
     font-family: "Josefin Sans", sans-serif;
@@ -90,6 +90,11 @@
   transition: all 0.5s ease;
   cursor: pointer;
   margin-bottom: 20px;
+}
+.ball {
+  position:absolute;
+  border-radius: 100%;
+  opacity: 0.7;
 }
 
 /*Social media@start*/

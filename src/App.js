@@ -1,8 +1,9 @@
 import React, { useState, useEffect } from 'react';
-import logo from './logo.png';
+import logo from './github.png';
 import './App.css';
 import { Form, Card, Image, Icon } from 'semantic-ui-react';
 import SocialFollow from './SocialFollow';
+import './design.js';
 
 
 function App() {
