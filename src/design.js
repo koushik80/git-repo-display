@@ -9,7 +9,7 @@ for (let i = 0; i < numBalls; i++) {
   ball.classList.add("ball");
   ball.style.background = colors[Math.floor(Math.random() * colors.length)];
   ball.style.left = `${Math.floor(Math.random() * 60)}vw`;
-  ball.style.right = `${Math.floor(Math.random() * 80)}vh`;
+  ball.style.right = `${Math.floor(Math.random() * 80)}vw`;
   ball.style.top = `${Math.floor(Math.random() * 50)}vh`;
   ball.style.bottom = `${Math.floor(Math.random() * 80)}vh`;
   ball.style.transform = `scale(${Math.random()})`;
