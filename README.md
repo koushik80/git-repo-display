@@ -3,7 +3,7 @@
 ---
 
 <div align="center"><a href="https://ghub-search-engine.netlify.app/">GitHuß Search Engine</a></div><br>
-<img width="1706" alt="Screenshot 2022-07-18 at 1 45 44 AM" src="https://user-images.githubusercontent.com/89943976/179428181-ad79479d-ea58-47a6-8a17-af8afebe65ca.gif">
+<img width="1200" alt="Screenshot 2022-07-18 at 1 45 44 AM" src="https://user-images.githubusercontent.com/89943976/179428181-ad79479d-ea58-47a6-8a17-af8afebe65ca.gif">
 <br>
 
 ---
