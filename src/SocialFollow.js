@@ -33,4 +33,4 @@ const SocialFollow = () => {
   );
 }
 
-export default SocialFollow
+export default SocialFollow;

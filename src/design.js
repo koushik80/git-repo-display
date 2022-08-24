@@ -1,4 +1,5 @@
-// Some random colors
+import React from 'react';
+
 const colors = ["#3CC157", "#2AA7FF", "#1B1B1B", "#FCBC0F", "#F85F36"];
 
 const numBalls = 100;
@@ -40,3 +41,12 @@ balls.forEach((el, i, ra) => {
     }
   );
 });
+
+
+const design = () => {
+  return (
+    <div>design</div>
+  )
+}
+
+export default design;
